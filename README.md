@@ -1,7 +1,9 @@
 # SimpleSmsSpamFilterCmd
-Command line app, collecting user input for sms content and categorizing it as spam or not spam
+Command line app, collecting user input for sms content and categorizing it as spam or not spam.
 <br>
-run using the following command and fill in your custom input:
+Using the SMSSpamCollection dataset to help with classification.
+<br>
+Use the following command and fill in your custom input to run the app:
 <br>
 <b>python UserInputSmsSpamFilter.py 'type your custom sms text here'</b>
 <p>
