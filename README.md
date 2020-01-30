@@ -3,7 +3,13 @@ Command line app, collecting user input for sms content and categorizing it as s
 <br>
 Using the SMSSpamCollection dataset to help with classification.
 <br>
-Use the following command and fill in your custom input to run the app:
+<b>Author:</b> Mariya Sha
+<br>
+<b>email:</b> mariyasha888@gmail.com
+<p>
+  <b>Instructions:</b>
+<br>
+Use the following command and fill in your <b>custom input</b> to run the app:
 <br>
 <b>python UserInputSmsSpamFilter.py 'type your custom sms text here'</b>
 <p>
