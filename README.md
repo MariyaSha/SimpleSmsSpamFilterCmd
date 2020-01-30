@@ -2,7 +2,7 @@
 Command line app, collecting user input for sms content and categorizing it as spam or not spam.
 <br>
 Using the SMSSpamCollection dataset to help with classification.
-<br>
+<p>
 <b>Author:</b> Mariya Sha
 <br>
 <b>email:</b> mariyasha888@gmail.com
